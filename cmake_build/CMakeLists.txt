@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8)
-project(test-cmake-project)
+CMAKE_MINIMUM_REQUIRED(VERSION 3.0)
+PROJECT(test-cmake)
 
-add_executable(test main.cpp)
+ADD_EXECUTABLE(${CMAKE_PROJECT_NAME} main.cpp)
