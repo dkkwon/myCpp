@@ -10,6 +10,8 @@
 - https://github.com/jacking75/examples_CMake
 - https://goodgodgd.github.io/ian-flow/archivers/vscode-tutorial
 
+- https://www.youtube.com/watch?v=_dXKSi70vJ0&t=791s
+
 ### Test
 ```
 ➜  cmake_build git:(main) ✗ ./build_cmake.sh
